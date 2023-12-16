@@ -1,0 +1,11 @@
+{
+  "predictions": [
+    {
+      "x": 1306,
+      "y": 110,
+      "width": 1228,
+      "height": 128,
+      "confidence": 0.867,
+      "class": "pipe",
+      "class_id": 0
+    },
